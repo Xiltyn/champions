@@ -1,0 +1,17 @@
+@media screen and ($desktop) {
+  html {
+    font-size: 62.5%;
+  }
+
+  .bc-mainNav {
+    .bc-nav--logo {
+      padding-top: 1rem;
+      img {
+        width: 11.5rem;
+        height: 5.2rem;
+        margin-left: 0;
+      }
+    }
+  }
+
+}

@@ -1,0 +1,42 @@
+.bc-txt {
+  color: $white;
+  margin: 0;
+  padding: 0;
+}
+
+.bc-txt--xxl {
+  font-family: $bold;
+  font-size: 6.8rem;
+  line-height: 6rem;
+}
+.bc-txt--lg {
+  font-family: $bold;
+  font-size: 3.6rem;
+  line-height: 4.0rem;
+}
+.bc-txt--md {
+  font-family: $medium;
+  font-size: 3rem;
+  line-height: 3.6rem;
+  font-weight: 500;
+}
+.bc-txt--sm {
+  font-family: $medium;
+  font-size: 2.4rem;
+  line-height: 2.6rem;
+  font-weight: 500;
+}
+.bc-txt--xs {
+  font-family: $medium;
+  font-size: 1.8rem;
+  line-height: 2.2rem;
+  font-weight: 500;
+}
+
+.bc-btn--switch {
+  padding-top: 1rem;
+  img {
+    width: 4rem;
+    height: 3.5rem;
+  }
+}
